@@ -1,4 +1,4 @@
-- 🙌🏼 Easy: Kullanıcıdan bir sayı almanızı ve bu sayının asal olup olmadığını kullanıcıya söylemenizi istiyorum. 
+- 🙌🏼 <b>Easy:</b> Kullanıcıdan bir sayı almanızı ve bu sayının asal olup olmadığını kullanıcıya söylemenizi istiyorum. 
 > 🗝️ Asal sayıların ortak özelliği kendisine ve bire kalansız bölünmesidir. 2’nin de asal sayı olduğunu programında unutma 😀Bütün asal sayıları tanımlamak ve kontrol etmek yerine sayının asal sayı olup olmadığını matematik işlemleriyle anlayabilirsin 😉
 
 #### Örnek çıktı aşağıdaki gibi olmalıdır 🤗
@@ -11,7 +11,7 @@
 ---
                 
                 
-- 🌟Medium: Kullanıcıdan bir kelime almanız gerekiyor. Bu kelimenin harflerini büyük harflere dönüştüren bir program yazmanızı istiyorum. 
+- 🌟<b>Medium:</b> Kullanıcıdan bir kelime almanız gerekiyor. Bu kelimenin harflerini büyük harflere dönüştüren bir program yazmanızı istiyorum. 
 > 🗝️ C dilinde toupper() fonksiyonu harfleri büyük harfe dönüştürür.
 
 #### Örnek çıktı aşağıdaki gibi olmalıdır 🤗
@@ -21,7 +21,7 @@
 
 ---
 
-- 💪🏻Hard: Bir şirket, bir ürünü üretmek ve satmak için belirli bir maliyet ve satış fiyatı hesaplamaktadır. Şirketin bir ürün için birim maliyeti ve birim satış fiyatı verildiğinde, kaç adet ürünün satılması durumunda şirketin kar edeceğini bulmanı istiyorum. Sakin ol şimdi biraz daha detaylandıracağım 😀
+- 💪🏻<b>Hard:</b> Bir şirket, bir ürünü üretmek ve satmak için belirli bir maliyet ve satış fiyatı hesaplamaktadır. Şirketin bir ürün için birim maliyeti ve birim satış fiyatı verildiğinde, kaç adet ürünün satılması durumunda şirketin kar edeceğini bulmanı istiyorum. Sakin ol şimdi biraz daha detaylandıracağım 😀
 > 🗝️ Bir adet cost ve price değişkeni oluşturmalısın. Bunları kullanıcıdan istemene gerek yok. Örneğin cost:100 price:150 olması durumunda 3 ürün satıldığında kâr edilmeye başlanmış olur. Cost price’dan her zaman düşük olmalıdır, eğer aynı veya yüksek olursa  kâr edilemez uyarısı dönmelidir.
 
 #### Örnek çıktı aşağıdaki gibi olmalıdır 🤗
